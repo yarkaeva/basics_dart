@@ -10,58 +10,58 @@
 /// (ключевые вещи), чтобы это был ещё и полезный конспект.
 
 void main(List<String> arguments) {
-//   String a = "a";
-//   int b = 54;
-//   bool l = true;
-//   double d = 4.5;
+  // String a = 'a';
+  // int b = 54;
+  // bool l = true;
+  // double d = 4.5;
 
-//   var e = 4;
+  // var e = 4;
 
-//   a = "";
+  // a = '';
 
-//   final int g = 65;
-//   const w = 65;
+  // final int g = 65;
+  // const w = 65;
 
-//   print(a);
+  // print(a);
 
-//   final h=4;
-//  const v = 5;
+  // final h = 4;
+  // const v = 5;
 
-//  print (a.runtimeType);
+  // print(a.runtimeType);
 
-//   var bf = 4+ 5 - 4 * 5 / 6 % 3;
-//   var c = 4-4;
-//   var g = 4* 4;
-//   var w = 4 / 4;
-//   var e = 5 % 3; //
-//   var r = d + c;
+  // var bf = 4 + 5 - 4 * 5 / 6 % 3;
+  // var c = 4 - 4;
+  // var g = 4 * 4;
+  // var w = 4 / 4;
+  // var e = 5 % 3; //
+  // var r = d + c;
 
-//   print (d);
+  // print(d);
 
-//   bool s = d<=4;
+  // bool s = d <= 4;
 
-//   print (s);
+  // print(s);
 
-//   bool t = ((4 > 5) && (6==6)) || (7<= 9);
-//   print (t);
+  // bool t = ((4 > 5) && (6 == 6)) || (7 <= 9);
+  // print(t);
 
-//   var l = 'qwe' + 'asd' + 'zxc';
-//   print (l);
+  // var l = 'qwe' + 'asd' + 'zxc';
+  // print(l);
 
-//   var p = 'asdafe';
-//   var z = 'sdffds';
-//   var m = 'fgsfdfsdf';
-//   var k = '$p$z $m';
+  // var p = 'asdafe';
+  // var z = 'sdffds';
+  // var m = 'fgsfdfsdf';
+  // var k = '$p$z $m';
 
-//   print(k);
+  // print(k);
 
-//   var list = ['asd','asdda', 'asdadsad', 'adsada'];
-//   var kontan = StringBuffer ();
-//   list.forEach((item){
-//     kontan.write(item);
-//   });
-//   var fff = kontan.toString();
-//   print(fff);
+  // var list = ['asd', 'asdda', 'asdadsad', 'adsada'];
+  // var kontan = StringBuffer();
+  // list.forEach((item) {
+  //   kontan.write(item);
+  // });
+  // var fff = kontan.toString();
+  // print(fff);
 
   // var hi = 'Hi 🇩🇰';
   // print(hi);
@@ -71,10 +71,10 @@ void main(List<String> arguments) {
   // var d = int.parse("4");
   // print(d);
 
-  // var d = int.tryParse("dfsf");
+  // var d = int.tryParse('dfsf');
   // print(d);
-  // var a = "hello";
-  // var b = "";
+  // var a = 'hello';
+  // var b = '';
 
   // int? c = null;
   // c = 5;
