@@ -11,7 +11,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "dart_lesson_2.dart",
+            "program": "dart_lesson_2_1.dart",
             "console": "terminal"
         }
     ]
