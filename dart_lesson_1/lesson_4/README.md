@@ -12,7 +12,8 @@ final List<int> listOfInt = [2, 2, 3, 4, 6, 7, 8, 9, 10];
       listOfInt.removeAt(index);
     }
   }
-  print (listOfInt);``` 
+  print (listOfInt);```
+  
   выведет: [2, 3, 6, 7, 9]
   Для этого примера лучше создать пустой массив и класть в него значения, подходящие условию.
 
