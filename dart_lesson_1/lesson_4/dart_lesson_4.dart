@@ -18,12 +18,12 @@ void main() {
   for (final element in listOfInt) {
     print(element);
   }
-  // эмитация счетчика из цикла for для for in
+  // имитация счетчика из цикла for для for in
   var i = 0;
   for (final element in listOfInt) {
     print('${i++} $element');
   }
-  // эмитация счетчика из цикла for для for in
+  // имитация счетчика из цикла for для for in
   for (final element in listOfInt.asMap().entries) {
     print('${element.key}: ${element}');
   }
