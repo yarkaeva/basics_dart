@@ -1,7 +1,8 @@
 void main() {
   print('start');
-  exampleFutureApi();
-  exampleAsync();
+  // exampleFutureApi();
+  // exampleAsync();
+  exampleThree();
   print('end');
 }
 
@@ -37,4 +38,11 @@ Future<void> exampleAsync() async {
   print(b);
   final c = await sum(b, a);
   print(c);
+}
+
+void exampleThree() {
+  [1, 2, 3, 4, 5, 6, 7, 8, 9].forEach((element) async {
+    final a = await sum(element, 4);
+    print(a);
+  });
 }
